@@ -38,9 +38,9 @@ targets:
         TARGETED_DEVICE_FAMILY: "1"
         ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
         ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
-        INFOPLIST_KEY_CFBundleDisplayName: CallSheet
+        INFOPLIST_KEY_CFBundleDisplayName: "Callerinsightpros 2026"
         PRODUCT_BUNDLE_IDENTIFIER: com.callsheet.CallSheet
-        PRODUCT_DISPLAY_NAME: CallSheet
+        PRODUCT_DISPLAY_NAME: "Callerinsightpros 2026"
         CODE_SIGN_ENTITLEMENTS: Config/CallSheet.entitlements
         DEVELOPMENT_TEAM: "QPN38WN543"
         SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD: NO

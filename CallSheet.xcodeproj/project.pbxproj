@@ -441,7 +441,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEVELOPMENT_TEAM = QPN38WN543;
 				INFOPLIST_FILE = CallSheet/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = CallSheet;
+				INFOPLIST_KEY_CFBundleDisplayName = "Callerinsightpros 2026";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UIRequiresFullScreen = YES;
@@ -451,7 +451,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.callsheet.CallSheet;
-				PRODUCT_DISPLAY_NAME = CallSheet;
+				PRODUCT_DISPLAY_NAME = "Callerinsightpros 2026";
 				SDKROOT = iphoneos;
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
@@ -469,7 +469,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEVELOPMENT_TEAM = QPN38WN543;
 				INFOPLIST_FILE = CallSheet/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = CallSheet;
+				INFOPLIST_KEY_CFBundleDisplayName = "Callerinsightpros 2026";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UIRequiresFullScreen = YES;
@@ -479,7 +479,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.callsheet.CallSheet;
-				PRODUCT_DISPLAY_NAME = CallSheet;
+				PRODUCT_DISPLAY_NAME = "Callerinsightpros 2026";
 				SDKROOT = iphoneos;
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
