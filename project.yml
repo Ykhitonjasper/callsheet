@@ -13,7 +13,7 @@ settings:
     GENERATE_INFOPLIST_FILE: YES
     INFOPLIST_FILE: CallSheet/Info.plist
     MARKETING_VERSION: "1.0.0"
-    CURRENT_PROJECT_VERSION: "1"
+    CURRENT_PROJECT_VERSION: "2"
     PRODUCT_BUNDLE_IDENTIFIER: com.callsheet.CallSheet
     PRODUCT_NAME: CallSheet
     DEVELOPMENT_TEAM: "QPN38WN543"
@@ -38,6 +38,7 @@ targets:
         TARGETED_DEVICE_FAMILY: "1"
         ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
         ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        INFOPLIST_KEY_CFBundleName: "Callerinsightpros 2026"
         INFOPLIST_KEY_CFBundleDisplayName: "Callerinsightpros 2026"
         PRODUCT_BUNDLE_IDENTIFIER: com.callsheet.CallSheet
         PRODUCT_DISPLAY_NAME: "Callerinsightpros 2026"
