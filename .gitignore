@@ -21,3 +21,4 @@ AuthKey_*.p8
 # Pipeline artifacts (local only)
 OUTPUTS/
 *.log
+.wrangler/
